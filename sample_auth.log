@@ -1,0 +1,4 @@
+Sep 10 10:15:23 server sshd[1421]: Failed password for admin from 192.168.1.45 port 53211 ssh2
+Sep 10 10:15:27 server sshd[1422]: Failed password for root from 192.168.1.45 port 53214 ssh2
+Sep 10 10:15:35 server sshd[1424]: Failed password for admin from 192.168.1.45 port 53220 ssh2
+Sep 10 10:16:02 server sshd[1423]: Accepted password for enolsi from 192.168.1.45 port 49211 ssh2
